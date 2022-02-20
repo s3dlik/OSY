@@ -1,17 +1,3 @@
-//***************************************************************************
-//
-// Program example for subject Operating Systems
-//
-// Petr Olivka, Dept. of Computer Science, petr.olivka@vsb.cz, 2021
-//
-// Example of socket server/client.
-//
-// This program is example of socket client.
-// The mandatory arguments of program is IP adress or name of server and
-// a port number.
-//
-//***************************************************************************
-
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>

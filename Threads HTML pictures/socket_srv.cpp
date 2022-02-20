@@ -1,17 +1,3 @@
-//***************************************************************************
-//
-// Program example for labs in subject Operating Systems
-//
-// Petr Olivka, Dept. of Computer Science, petr.olivka@vsb.cz, 2017
-//
-// Example of socket server.
-//
-// This program is example of socket server and it allows to connect and serve
-// the only one client.
-// The mandatory argument of program is port number for listening.
-//
-//***************************************************************************
-
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
